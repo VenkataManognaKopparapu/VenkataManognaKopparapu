@@ -17,7 +17,8 @@ I'm a **Frontend Developer**, currently pursuing my Master's in Information Syst
 - Exploring backend concepts with **Python** and looking to dive into **Node.js**.
 
 ## 🔥 My Coding Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manognak&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataManognaKopparapu&layout=compact&langs_count=10)
+
 
 
 ### 🤝 Let's Connect:
