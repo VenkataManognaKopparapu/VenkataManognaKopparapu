@@ -16,6 +16,10 @@ I'm a **Frontend Developer**, currently pursuing my Master's in Information Syst
 - Improving my skills in **React** and **JavaScript**.
 - Exploring backend concepts with **Python** and looking to dive into **Node.js**.
 
+## 🔥 My Coding Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manognak&layout=compact&langs_count=10)
+
+
 ### 🤝 Let's Connect:
 - LinkedIn: [linkedin.com/in/manogna-kopparapu](https://www.linkedin.com/in/manogna-kopparapu)
 - Email :manogynakopparapu@gmail.com
