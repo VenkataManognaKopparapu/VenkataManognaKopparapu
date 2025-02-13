@@ -18,8 +18,7 @@ I'm a **Frontend Developer**, currently pursuing my Master's in Information Syst
 
 ### 🤝 Let's Connect:
 - LinkedIn: [linkedin.com/in/manogna-kopparapu](https://www.linkedin.com/in/manogna-kopparapu)
-- Email: Kopparapu.v@northeastern.edu
-- Email(personal):manogynakopparapu@gmail.com
+- Email :manogynakopparapu@gmail.com
 
 
 ### 📫 How to reach me:
