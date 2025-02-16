@@ -8,7 +8,7 @@ I'm a **Frontend Developer**, currently pursuing my Master's in Information Syst
 - Familiar with **Python** and looking to explore more backend technologies.
 
 ### 🚀 Have a look at my completed projects:
-- **[Word Guessing Game](https://github.com/yourusername/word-guessing-game):** A fun and interactive word guessing game built with React, allowing users to guess letters and track their progress.
+- **[Word Guessing Game](https://github.com/yourusername/word-guessing-game):** A fun and interactive word guessing game allowing users to guess letters and track their progress.
 - **[Chat Application](https://github.com/yourusername/chat-application):** A real-time chat app where users can send messages and engage in conversations.
 - **[Job Tracker](https://github.com/yourusername/job-tracker):** A web application that helps users track their job applications, manage job details, and monitor their progress.
 
