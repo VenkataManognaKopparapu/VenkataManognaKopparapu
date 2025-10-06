@@ -1,6 +1,6 @@
 # Hi there, I'm Venkata ! 👋
 
-I'm a **Frontend Developer**, currently pursuing my Master's in Information Systems at Northeastern University. I enjoy working with web technologies to build user-friendly applications and am always eager to learn new things!
+I'm a **Frontend Developer**, graduated Master's in Information Systems at Northeastern University. I enjoy working with web technologies to build user-friendly applications and am always eager to learn new things!
 
 ### 💼 What I do:
 - **Frontend development** using **React**, **HTML**, **CSS**, and **JavaScript**.
