@@ -1,4 +1,4 @@
-# Hi there, I'm Venkata ! 👋
+# Hi there, I'm Venkata ! 👋 Welcome to my GitHub 👨‍💻
 
 I'm a **Frontend Developer**, graduated Master's in Information Systems at Northeastern University. I enjoy working with web technologies to build user-friendly applications and am always eager to learn new things!
 
