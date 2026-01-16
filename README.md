@@ -29,11 +29,14 @@ I'm a **Full Stack Developer**, passionate about building end-to-end web applica
 
 ## 🔥 My Coding Stats
 
+## 🔥 My Coding Stats
+
 ![Venkata's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkataManognaKopparapu&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataManognaKopparapu&layout=compact&langs_count=10&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VenkataManognaKopparapu&theme=radical)
+
 
 
 
