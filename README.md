@@ -13,13 +13,8 @@ I'm a **Full Stack Developer**, passionate about building end-to-end web applica
 - **[Chat Application](https://github.com/yourusername/chat-application):** A real-time chat app where users can send messages and engage in conversations.
 - **[Job Tracker](https://github.com/yourusername/job-tracker):** A web application that helps users track their job applications, manage job details, and monitor their progress.
 
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-React?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-HTML5?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-CSS3?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/Python-Python?style=flat&logo=python)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/Agentic%20AI-Exploring-blueviolet?style=flat)
 
 ### 🌱 I'm currently learning:
 - Improving my skills in **React** and **JavaScript**.
