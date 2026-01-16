@@ -1,16 +1,25 @@
 # Hi there, I'm Venkata ! 👋
 
-I'm a **Frontend Developer**, graduated Master's in Information Systems at Northeastern University. I enjoy working with web technologies to build user-friendly applications and am always eager to learn new things!
+I'm a **Full Stack Developer**, passionate about building end-to-end web applications, with a strong frontend foundation and growing interest in backend systems and AI-driven solutions.
 
 ### 💼 What I do:
-- **Frontend development** using **React**, **HTML**, **CSS**, and **JavaScript**.
-- Building **responsive** and **interactive** web applications.
-- Familiar with **Python** and looking to explore more backend technologies.
+- Build full stack web applications with a strong focus on **frontend development** using **React, HTML, CSS, and JavaScript**
+- Create responsive, interactive, and user-friendly interfaces
+- Develop and experiment with backend logic and APIs using **Python** and **Node.js**
+- Explore **AI and Agentic AI concepts** through hackathons, courses, and hands-on experimentation
 
 ### 🚀 Have a look at my completed projects:
 - **[Word Guessing Game](https://github.com/yourusername/word-guessing-game):** A fun and interactive word guessing game allowing users to guess letters and track their progress.
 - **[Chat Application](https://github.com/yourusername/chat-application):** A real-time chat app where users can send messages and engage in conversations.
 - **[Job Tracker](https://github.com/yourusername/job-tracker):** A web application that helps users track their job applications, manage job details, and monitor their progress.
+
+### 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
 
 ### 🌱 I'm currently learning:
 - Improving my skills in **React** and **JavaScript**.
