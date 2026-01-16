@@ -14,11 +14,11 @@ I'm a **Full Stack Developer**, passionate about building end-to-end web applica
 - **[Job Tracker](https://github.com/yourusername/job-tracker):** A web application that helps users track their job applications, manage job details, and monitor their progress.
 
 ### 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2B5B84?style=plastic&logo=python&logoColor=FFD43B)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&logoWidth=40)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&logoWidth=40)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=40)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&logoWidth=40)
+![Python](https://img.shields.io/badge/Python-2B5B84?style=flat-square&logo=python&logoColor=FFD43B&logoWidth=40)
 
 ### 🌱 I'm currently learning:
 - Improving my skills in **React** and **JavaScript**.
