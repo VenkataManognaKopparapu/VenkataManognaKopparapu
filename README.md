@@ -16,8 +16,6 @@ I'm a **Full Stack Developer**, passionate about building end-to-end web applica
 ### 🤖 AI, Hackathons & Experiments
 - 🧠 Participated in an **AI Hackathon by DeepMind**, collaborating on innovative problem-solving ideas
 - 🎓 Completed **Agentic AI Agents course by Google**, gaining exposure to autonomous agents and AI workflows
-- ⚡ Recently started **vibe coding**, experimenting with rapid prototyping and creative development approaches
-
 
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&logoWidth=40)
