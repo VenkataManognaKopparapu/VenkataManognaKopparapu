@@ -13,6 +13,12 @@ I'm a **Full Stack Developer**, passionate about building end-to-end web applica
 - **[Chat Application](https://github.com/yourusername/chat-application):** A real-time chat app where users can send messages and engage in conversations.
 - **[Job Tracker](https://github.com/yourusername/job-tracker):** A web application that helps users track their job applications, manage job details, and monitor their progress.
 
+### 🤖 AI, Hackathons & Experiments
+- 🧠 Participated in an **AI Hackathon by DeepMind**, collaborating on innovative problem-solving ideas
+- 🎓 Completed **Agentic AI Agents course by Google**, gaining exposure to autonomous agents and AI workflows
+- ⚡ Recently started **vibe coding**, experimenting with rapid prototyping and creative development approaches
+
+
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&logoWidth=40)
