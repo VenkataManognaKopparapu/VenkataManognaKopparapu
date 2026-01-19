@@ -39,3 +39,8 @@ I'm a **Full Stack Developer**, passionate about building end-to-end web applica
 
 ### 📫 How to reach me:
 Feel free to open an issue or send me a message if you're interested in collaborating or discussing development!
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkata&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
