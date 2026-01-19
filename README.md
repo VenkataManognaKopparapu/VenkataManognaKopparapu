@@ -1,4 +1,4 @@
-# Hi there, I'm Venkata ! 👋
+<h1 align="center">Hi there, I'm Venkata! 👋</h1>
 
 I'm a **Full Stack Developer**, passionate about building end-to-end web applications, with a strong frontend foundation and growing interest in backend systems and AI-driven solutions.
 
