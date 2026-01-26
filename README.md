@@ -29,7 +29,7 @@ I'm a **Full Stack Developer**, passionate about building end-to-end web applica
 - Exploring backend concepts with **Python** and looking to dive into **Node.js**.
 
 ## 🔥 My Coding Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataManognaKopparapu&layout=compact&langs_count=10&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataManognaKopparapu&layout=compact&langs_count=10&card_width=700)
 
 
 ### 🤝 Let's Connect:
